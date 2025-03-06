@@ -1,0 +1,12 @@
+version : "2.8"
+services:
+  python:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
+    volumes:
+      - ./:/app
+
+    cpus: 1.0
+    mem_limit: 512M
