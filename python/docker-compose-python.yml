@@ -2,7 +2,7 @@ services:
   python:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.python
     container_name: python_container
     volumes:
       - ./:/app
