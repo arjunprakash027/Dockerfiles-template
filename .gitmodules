@@ -1,6 +1,3 @@
-[submodule "AutoFlux"]
-	path = AutoFlux
-	url = https://github.com/arjunprakash027/AutoFlux
 [submodule "awesome-compose"]
 	path = awesome-compose
 	url = https://github.com/docker/awesome-compose
@@ -10,3 +7,6 @@
 [submodule "playground"]
 	path = playground
 	url = https://github.com/luisaveiro/playground
+[submodule "custom/AutoFlux"]
+	path = custom/AutoFlux
+	url = https://github.com/arjunprakash027/AutoFlux
