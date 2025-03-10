@@ -1,3 +1,9 @@
 [submodule "AutoFlux"]
 	path = AutoFlux
 	url = https://github.com/arjunprakash027/AutoFlux
+[submodule "awesome-compose"]
+	path = awesome-compose
+[submodule "dockerfiles"]
+	path = dockerfiles
+[submodule "playground"]
+	path = playground

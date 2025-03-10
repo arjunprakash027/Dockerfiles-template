@@ -1,6 +1,12 @@
-# Templates
+# Templates (Work in progress)
 
 A collection of templates (dockerfile w/wo code) to help you start your projects fast. More templates will be added over time.
+
+## List of all dockerfile repositories that I get templates from
+
+- https://github.com/luisaveiro/playground
+- https://github.com/docker/awesome-compose
+- https://github.com/patzm/dockerfiles
 
 ## How to Use
 
