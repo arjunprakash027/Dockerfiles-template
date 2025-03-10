@@ -3,7 +3,10 @@
 	url = https://github.com/arjunprakash027/AutoFlux
 [submodule "awesome-compose"]
 	path = awesome-compose
+	url = https://github.com/docker/awesome-compose
 [submodule "dockerfiles"]
 	path = dockerfiles
+	url = https://github.com/patzm/dockerfiles
 [submodule "playground"]
 	path = playground
+	url = https://github.com/luisaveiro/playground
