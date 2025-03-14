@@ -10,3 +10,6 @@
 [submodule "custom/AutoFlux"]
 	path = custom/AutoFlux
 	url = https://github.com/arjunprakash027/AutoFlux
+[submodule "docker-templates"]
+	path = docker-templates
+	url = https://github.com/devopshobbies/docker-templates.git
